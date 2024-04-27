@@ -1,0 +1,12 @@
+A major pain-point for customers is non-arrival of professionals for their service without prior
+intimation, (called No-Show) and leads to a bad experience. In case Accelerated prediction of
+No-Show enables the platform (organization) to deploy additional strategies to re-assign the
+booking to another professional.
+We need to build a predictive model to predict No-Show probability of a request.
+
+
+Task list : 
+- Performing a comprehensive EDA
+- Sharing additional relevant insights and visualizations,
+- Build a predictive model to predict no-Show given the features described
+- Find the ideal threshold for prediction if , the benefit of a correct no-show prediction is 400, benefit of  correctly predicting a no-show NOT happening is 0, cost of incorrectly predicting a booking as no-show is -200, cost of incorrectly predicting a booking as NOT no-show is -150 .
