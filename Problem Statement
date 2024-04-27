@@ -1,8 +1,5 @@
-A major pain-point for customers is non-arrival of professionals for their service without prior
-intimation, (called No-Show) and leads to a bad experience. In case Accelerated prediction of
-No-Show enables the platform (organization) to deploy additional strategies to re-assign the
-booking to another professional.
-We need to build a predictive model to predict No-Show probability of a request.
+A major pain-point for customers is non-arrival of professionals for their service without prior intimation, (called No-Show) and leads to a bad experience. In case Accelerated prediction of No-Show enables the platform (organization) to deploy additional strategies to re-assign the
+booking to another professional. We need to build a predictive model to predict No-Show probability of a request.
 
 
 Task list : 
